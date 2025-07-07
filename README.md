@@ -2,7 +2,7 @@
 
 This Power BI project provides a comprehensive analysis of global video game sales data between **2010 and 2024**, offering valuable insights into performance across genres, platforms, publishers, and regions.
 
-![Dashboard Screenshot](Screenshot%202025-07-07%20102348.png)
+![Dashboard Screenshot](dashoboard.png)
 
 ---
 
